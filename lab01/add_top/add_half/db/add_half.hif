@@ -1,0 +1,44 @@
+Version 7.1 Build 178 06/25/2007 Service Pack 1 SJ Web Edition
+18
+1035
+OFF
+OFF
+OFF
+OFF
+ON
+ON
+OFF
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Partition --
+-- End Partition --
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+add_half
+# storage
+db|add_half.(0).cnf
+db|add_half.(0).cnf
+# case_insensitive
+# source_file
+add_half.bdf
+71c557a5240ec663594447675c29ee
+25
+# hierarchies {
+|
+}
+# lmf
+..|..|program files|altera|71sp1|quartus|lmf|
+d41d8cd98f0b24e980998ecf8427e
+# macro_sequence
+
+# end
+# complete
+
