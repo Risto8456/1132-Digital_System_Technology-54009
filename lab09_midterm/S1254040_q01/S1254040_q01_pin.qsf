@@ -1,0 +1,5 @@
+set_location_assignment PIN_B12 -to sw1
+set_location_assignment PIN_A12 -to sw0
+set_location_assignment PIN_B11 -to led[2]
+set_location_assignment PIN_A11 -to led[1]
+set_location_assignment PIN_D14 -to led[0]
